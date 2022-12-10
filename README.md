@@ -1,0 +1,1 @@
+# buildrun-cleancode-encapsulate-condition
